@@ -26,3 +26,4 @@ Asset Structure (2020-2024)
 Liabilities vs Equity Structure (2020-2024)
 
 CIRA Education VA Income Statement: (https://github.com/shaimamorgan/Projects/blob/main/CIRA%20VA%20Income%20Statement.png)
+CIRA Education VA Balance Sheet: (https://github.com/shaimamorgan/Projects/blob/main/CIRA%20VA%20Balance%20Sheet.png)
