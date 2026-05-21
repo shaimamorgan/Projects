@@ -11,20 +11,21 @@ The purpose of the Vertical Analysis Dashboards is that they show us the relatio
 These VA Income Statement Dashboards show us important highlights in:
 
 The change of Gross Profit, Operating Income and Net Income (2021-2024) as % of net sales revenue.
-Revenue Composition (2020-2024)
-Margin Lines (2020-2024)
-Cost Efficiency (COGS vs Operating Expenses as % of net sales)
-Net Inome before taxes vs Net Income after taxes (2020-2024)
-Interest Expense vs Other Income (2020-2024)
+1- Revenue Composition (2020-2024)
+2- Margin Lines (2020-2024)
+3- Cost Efficiency (COGS vs Operating Expenses as % of net sales)
+4- Net Inome before taxes vs Net Income after taxes (2020-2024)
+5- Interest Expense vs Other Income (2020-2024)
 
 For VA Balance Sheet Dashboards:
 
-The change of Total Current Assets, Total Long-term Assets, Total Liabilities and Total Equity (2021-2024) as a % of total assets.
-Current Assets vs Current Liabilities as a % of total assets (2020-2024)
-Debt vs Equity Grwoth (2020-2024)
-Asset Structure (2020-2024)
-Liabilities vs Equity Structure (2020-2024)
+1- The change of Total Current Assets, Total Long-term Assets, Total Liabilities and Total Equity (2021-2024) as a % of total assets.
+2- Current Assets vs Current Liabilities as a % of total assets (2020-2024)
+3- Debt vs Equity Grwoth (2020-2024)
+4- Asset Structure (2020-2024)
+5- Liabilities vs Equity Structure (2020-2024)
 
+References:
 CIRA Education VA Income Statement: (https://github.com/shaimamorgan/Projects/blob/main/CIRA%20VA%20Income%20Statement.png)
 CIRA Education VA Balance Sheet: (https://github.com/shaimamorgan/Projects/blob/main/CIRA%20VA%20Balance%20Sheet.png)
 Taaleem Management Services VA Income Statement: (https://github.com/shaimamorgan/Projects/blob/main/Taaleem%20VA%20Income%20Statement.png)
