@@ -24,3 +24,5 @@ Current Assets vs Current Liabilities as a % of total assets (2020-2024)
 Debt vs Equity Grwoth (2020-2024)
 Asset Structure (2020-2024)
 Liabilities vs Equity Structure (2020-2024)
+
+CIRA Education VA Income Statement: (https://github.com/shaimamorgan/Projects/blob/main/CIRA%20VA%20Income%20Statement.png)
